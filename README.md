@@ -27,7 +27,7 @@ The election demonstrated strong party-line loyalty across most states, while a 
 ## State-Level Political Divide
 The 2016 election results varied significantly across states, with some regions overwhelmingly supporting one candidate. To understand the broader political divide, we examine two states that represent opposite ends of the political spectrum—California (Democratic stronghold) and Tennessee (Republican stronghold). These states provide a clear contrast in voter preferences and serve as a reference point for analyzing potential sentiment shifts following the election.
 
-![State-Level Political Divide](graphs/graph_1.png)
+![State-Level Political Divide](result/graphs/graph_1.png)
 
 ---
 
@@ -38,7 +38,7 @@ The 2016 election results varied significantly across states, with some regions 
 - Electoral Votes: 55 (All went to Clinton)
 - Political Trend: Historically Democratic with one of the highest support rates for Clinton in 2016
 
-![California Voting Distribution](graphs/graph_2.png)
+![California Voting Distribution](result/graphs/graph_2.png)
 
 ---
 
@@ -49,7 +49,7 @@ The 2016 election results varied significantly across states, with some regions 
 - Electoral Votes: 11 (All went to Trump)
 - Political Trend: Consistently Republican with strong conservative alignment
 
-![Tennessee Voting Distribution](graphs/graph_3.png)
+![Tennessee Voting Distribution](result/graphs/graph_3.png)
 
 ---
 
