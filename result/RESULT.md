@@ -5,14 +5,14 @@
 ### California
 Post-election analysis indicates noticeable sentiment shifts in California Yelp reviews. Compared to the pre-election period, neutral and negative reviews increased, suggesting that the political outcome may have influenced how consumers expressed dissatisfaction in restaurant reviews.
 
-![California Sentiment Distribution](graphs/graph_5.jpg)
+![California Sentiment Distribution](result/graphs/graph_5.png)
 
 ---
 
 ### Tennessee
 In contrast, sentiment changes in Tennessee were less pronounced. Review sentiment remained relatively stable, indicating that consumer expressions were less affected by the election outcome in this Republican-leaning state.
 
-![Tennessee Sentiment Distribution](graphs/graph_6.jpg)
+![Tennessee Sentiment Distribution](result/graphs/graph_6.png)
 
 ---
 
@@ -31,7 +31,9 @@ Using zero-shot topic modeling, review content was analyzed to identify themes a
 
 These themes suggest that emotional framing may influence not only sentiment polarity but also the types of dining experiences discussed by reviewers.
 
-![Win vs Lose Topic Distribution](graphs/graph_7.jpg)
+![Win vs Lose Topic Distribution](result/graphs/graph_7.png)
+
+![California vs Tennessee Comparison](result/graphs/graph_8.png)
 
 ---
 
@@ -41,7 +43,6 @@ A direct comparison between California and Tennessee highlights distinct post-el
 
 This contrast reinforces the idea that political alignment and election outcomes may influence consumer sentiment in online reviews.
 
-![California vs Tennessee Comparison](graphs/graph_8.jpg)
 
 ---
 
